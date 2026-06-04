@@ -35,19 +35,20 @@ project/
 ├── app.py
 ├── gradcam.py
 ├── requirements.txt
+├── README.md
 │
 ├── model/
+│   ├── brain_tumor_model.h5
 │   ├── brain_tumor_model.keras
-│   └── class_names.json
-│
-├── templates/
-│   └── index.html
+│   ├── class_names.json
+│   └── brain_tumor_savedmodel/
 │
 ├── static/
 │   ├── uploads/
 │   └── results/
 │
-└── README.md
+└── templates/
+    └── index.html
 ```
 
 ## Dataset
