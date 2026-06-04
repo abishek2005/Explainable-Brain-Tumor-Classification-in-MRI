@@ -1,7 +1,5 @@
 venv/
 dataset/
 Testing/
-*.h5
-brain_tumor_savedmodel/
 __pycache__/
 *.pyc
