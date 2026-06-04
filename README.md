@@ -135,7 +135,7 @@ The model successfully classifies brain MRI images and provides interpretable vi
 
 ## Author
 
-**Abishek**
+**Abishek A**
 
 B.Tech Artificial Intelligence & Machine Learning
 
