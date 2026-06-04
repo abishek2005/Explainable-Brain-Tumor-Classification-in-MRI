@@ -1,11 +1,7 @@
 venv/
 dataset/
 Testing/
-ieee_Paper work/
-
-project.rar
 *.h5
 brain_tumor_savedmodel/
-
 __pycache__/
 *.pyc
